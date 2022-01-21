@@ -1,0 +1,15 @@
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.csproj.AssemblyReference.cache
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.AssemblyInfoInputs.cache
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.AssemblyInfo.cs
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.csproj.CoreCompileInputs.cache
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\bin\Debug\net6.0\DIO.Animes.exe
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\bin\Debug\net6.0\DIO.Animes.deps.json
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\bin\Debug\net6.0\DIO.Animes.runtimeconfig.json
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\bin\Debug\net6.0\DIO.Animes.dll
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\bin\Debug\net6.0\ref\DIO.Animes.dll
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\bin\Debug\net6.0\DIO.Animes.pdb
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.dll
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\ref\DIO.Animes.dll
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.pdb
+C:\Users\MATEO\Documents\DIO\DioSeriesAnime\DIO.Animes\obj\Debug\net6.0\DIO.Animes.genruntimeconfig.cache

@@ -1,0 +1,20 @@
+using System.Collections.Generic;
+
+namespace DIO.Animes.Interfaces
+{
+    public interface IRepositorio<T>
+    {
+         List<T> Lista();
+
+         T RetornaPorId(int Id);
+
+         void Insere (T entidade);
+
+        void Exclui (int id);
+
+        void Actualiza (int id, T entidade);
+
+        int ProximoId();
+
+    }
+}
